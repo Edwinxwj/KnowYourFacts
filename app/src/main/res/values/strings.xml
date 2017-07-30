@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank first fragment</string>
+    <string name="hello_blank_fragment2">Hello blank second fragment</string>
+    <string name="hello_blank_fragment3">Hello blank third fragment</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_Previous"
+        android:orderInCategory="100"
+        android:text="Previous"
+        android:title="Previous"/>
+    <item
+        android:id="@+id/action_Random"
+        android:orderInCategory="100"
+        android:text="Random"
+        android:title="Random"/>
+    <item
+        android:id="@+id/action_Next"
+        android:orderInCategory="100"
+        android:text="Next"
+        android:title="Next"/>
+
+</menu>
