@@ -16,7 +16,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="384dp"
-            android:text="@string/hello_blank_fragment1" />
+            android:text="You don't really see these big bucks often but if you manage to get your hands on one, flip it over and see if you can spot the lyrics to the national anthem! I think it's a pretty cool idea and I wish they'd do so for every other note. " />
 
         <Button
             android:id="@+id/buttonFrag1CC"

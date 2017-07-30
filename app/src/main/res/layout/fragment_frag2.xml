@@ -17,7 +17,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="355dp"
-            android:text="@string/hello_blank_fragment2" />
+            android:text="When I was younger, I used to pester my mother to buy me Yakult every time we went to the supermarket. They didn't sell the packets with all Grape flavour back then so every time we bought it, I would rush to 'chope' the Grape flavoured one.   I've always hated how Yakult bottles are really small but actually, the Yakult bottles in Singapore are the largest compared to those overseas, and of course the most expensive. To be honest, I wouldn't mind paying for a 500ml Yakult. " />
 
         <Button
             android:id="@+id/buttonFrag2CC"

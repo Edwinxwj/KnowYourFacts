@@ -16,7 +16,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="355dp"
-            android:text="@string/hello_blank_fragment3" />
+            android:text="We all know the story of how Sang Nila Utama, a Srivijayan Prince from Palembang saw a creature he thought was a lion and named the island Singapura which means Lion City in Sanskrit. But truth be told, there were no lions ever in Singapore.   It's possible that the creature he saw was actually a tiger. Think about it! We could have been called Tiger City. That's so strange..." />
 
         <Button
             android:id="@+id/buttonFrag3CC"
